@@ -1,1 +1,1 @@
-Learning Databases, SQL, triggers, cursors and functions.
+Learning databases, SQL, triggers, cursors and functions.
